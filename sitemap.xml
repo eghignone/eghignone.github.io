@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/products/example/</loc>
+    <loc>/products/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/products/</loc>
+    <loc>/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/blog/germany-race/</loc>
+    <loc>/blog/germany-race/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/tags/shortcodes/</loc>
+    <loc>/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/tags/css/</loc>
+    <loc>/tags/css/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/tags/html/</loc>
+    <loc>/tags/html/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/tags/index/</loc>
+    <loc>/tags/index/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/blog/map-paper/</loc>
+    <loc>/blog/map-paper/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/f1tenth_pbl.github.io/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
   </url>
 </urlset>
