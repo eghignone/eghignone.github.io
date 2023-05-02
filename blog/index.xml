@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on F1TENTH at PBL</title>
-    <link>/blog/</link>
+    <link>https://eghignone.github.io/f1tenth_pbl.github.io/blog/</link>
     <description>Recent content in Posts on F1TENTH at PBL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://eghignone.github.io/f1tenth_pbl.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Germany Race</title>
-      <link>/blog/germany-race/</link>
+      <link>https://eghignone.github.io/f1tenth_pbl.github.io/blog/germany-race/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/germany-race/</guid>
+      <guid>https://eghignone.github.io/f1tenth_pbl.github.io/blog/germany-race/</guid>
       <description>Germany Race We won the germany race! but it&amp;rsquo;s not on youtube so get our best video </description>
     </item>
     
     <item>
       <title>MAP Paper</title>
-      <link>/blog/map-paper/</link>
+      <link>https://eghignone.github.io/f1tenth_pbl.github.io/blog/map-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/map-paper/</guid>
+      <guid>https://eghignone.github.io/f1tenth_pbl.github.io/blog/map-paper/</guid>
       <description>MAP Paper Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity.</description>
     </item>
     
