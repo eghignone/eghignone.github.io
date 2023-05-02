@@ -6,7 +6,7 @@
     <description>Recent content on F1TENTH at PBL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://f1tenthpbl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://f1tenthpbl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Project</title>
       <link>https://f1tenthpbl.github.io/products/example/</link>
@@ -19,10 +19,20 @@
     <item>
       <title>Germany Race</title>
       <link>https://f1tenthpbl.github.io/blog/germany-race/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://f1tenthpbl.github.io/blog/germany-race/</guid>
-      <description>Germany Race We won the germany race! but it&amp;rsquo;s not on youtube so get our best video </description>
+      <description>We won the germany race!
+Cool video </description>
+    </item>
+    
+    <item>
+      <title>MAP Paper</title>
+      <link>https://f1tenthpbl.github.io/blog/map-paper/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://f1tenthpbl.github.io/blog/map-paper/</guid>
+      <description>MAP Paper Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity.</description>
     </item>
     
     <item>
@@ -43,15 +53,6 @@ https://github.com/yuin/goldmark https://github.</description>
       
       <guid>https://f1tenthpbl.github.io/contact/</guid>
       <description>To contact us, please fill out the form below.</description>
-    </item>
-    
-    <item>
-      <title>MAP Paper</title>
-      <link>https://f1tenthpbl.github.io/blog/map-paper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://f1tenthpbl.github.io/blog/map-paper/</guid>
-      <description>MAP Paper Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity.</description>
     </item>
     
   </channel>
