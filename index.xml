@@ -8,12 +8,31 @@
     <language>en</language>
     <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eghignone.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Project</title>
-      <link>https://eghignone.github.io/products/example/</link>
+      <title>NUC1</title>
+      <link>https://eghignone.github.io/products/nuc1/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
-      <guid>https://eghignone.github.io/products/example/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
+      <guid>https://eghignone.github.io/products/nuc1/</guid>
+      <description>Once upon a time NUC1 was the MPC machine. Now it is the CI server</description>
+    </item>
+    
+    <item>
+      <title>NUC2</title>
+      <link>https://eghignone.github.io/products/nuc2/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://eghignone.github.io/products/nuc2/</guid>
+      <description>NUC2 is now the oldest car to date that still runs. It is kinda broken.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://eghignone.github.io/about/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eghignone.github.io/about/</guid>
+      <description>ForzaETH is the F1TENTH team at the Center for Project Based Learning, D-ITET, ETH Zürich.
+More details at the video below This website is built with Hugo, with the theme Tella. It is hosted by github pages. Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
@@ -33,17 +52,6 @@ Cool video </description>
       
       <guid>https://eghignone.github.io/blog/map-paper/</guid>
       <description>MAP Paper Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://eghignone.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eghignone.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
     </item>
     
     <item>
