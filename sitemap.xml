@@ -2,59 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eghignone.github.io/products/nuc1/</loc>
+    <loc>https://forzaeth.ch/products/nuc1/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/products/nuc2/</loc>
+    <loc>https://forzaeth.ch/products/nuc2/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/</loc>
+    <loc>https://forzaeth.ch/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/about/</loc>
+    <loc>https://forzaeth.ch/about/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/categories/</loc>
+    <loc>https://forzaeth.ch/categories/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/tags/css/</loc>
+    <loc>https://forzaeth.ch/categories/control/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/blog/germany-race/</loc>
+    <loc>https://forzaeth.ch/blog/germany-race/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/tags/html/</loc>
+    <loc>https://forzaeth.ch/blog/map-paper/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/blog/map-paper/</loc>
+    <loc>https://forzaeth.ch/categories/papers/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/tags/markdown/</loc>
+    <loc>https://forzaeth.ch/blog/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/blog/</loc>
+    <loc>https://forzaeth.ch/categories/race/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/tags/privacy/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eghignone.github.io/tags/shortcodes/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eghignone.github.io/categories/syntax/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eghignone.github.io/tags/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eghignone.github.io/categories/themes/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eghignone.github.io/products/</loc>
+    <loc>https://forzaeth.ch/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://eghignone.github.io/contact/</loc>
+    <loc>https://forzaeth.ch/contact/</loc>
   </url><url>
-    <loc>https://eghignone.github.io/tags/index/</loc>
+    <loc>https://forzaeth.ch/tags/index/</loc>
+  </url><url>
+    <loc>https://forzaeth.ch/tags/</loc>
   </url>
 </urlset>

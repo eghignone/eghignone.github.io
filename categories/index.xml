@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on F1TENTH at PBL</title>
-    <link>https://eghignone.github.io/categories/</link>
+    <link>https://forzaeth.ch/categories/</link>
     <description>Recent content in Categories on F1TENTH at PBL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eghignone.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://forzaeth.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>syntax</title>
-      <link>https://eghignone.github.io/categories/syntax/</link>
+      <title>control</title>
+      <link>https://forzaeth.ch/categories/control/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://eghignone.github.io/categories/syntax/</guid>
+      <guid>https://forzaeth.ch/categories/control/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://eghignone.github.io/categories/themes/</link>
+      <title>papers</title>
+      <link>https://forzaeth.ch/categories/papers/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://eghignone.github.io/categories/themes/</guid>
+      <guid>https://forzaeth.ch/categories/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>race</title>
+      <link>https://forzaeth.ch/categories/race/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://forzaeth.ch/categories/race/</guid>
       <description></description>
     </item>
     
