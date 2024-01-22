@@ -6,63 +6,49 @@
     <description>Recent content on F1TENTH at PBL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://forzaeth.ch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://forzaeth.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NUC1</title>
       <link>https://forzaeth.ch/products/nuc1/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      
       <guid>https://forzaeth.ch/products/nuc1/</guid>
       <description>Once upon a time NUC1 was the MPC machine. Now it is the CI server</description>
     </item>
-    
     <item>
       <title>NUC2</title>
       <link>https://forzaeth.ch/products/nuc2/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      
       <guid>https://forzaeth.ch/products/nuc2/</guid>
       <description>NUC2 is now the oldest car to date that still runs. It is kinda broken.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://forzaeth.ch/about/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://forzaeth.ch/about/</guid>
-      <description>ForzaETH is the F1TENTH team at the Center for Project Based Learning, D-ITET, ETH Zürich.
-More details at the video below This website is built with Hugo, with the theme Tella. It is hosted by github pages. Learn more and contribute on GitHub.</description>
+      <description>ForzaETH is the F1TENTH team at the Center for Project Based Learning, D-ITET, ETH Zürich.&#xA;More details at the video below This website is built with Hugo, with the theme Tella. It is hosted by github pages. Learn more and contribute on GitHub.</description>
     </item>
-    
     <item>
       <title>Germany Race</title>
       <link>https://forzaeth.ch/blog/germany-race/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://forzaeth.ch/blog/germany-race/</guid>
-      <description>We won the germany race!
-Cool video </description>
+      <description>We won the germany race!&#xA;Cool video </description>
     </item>
-    
     <item>
       <title>MAP Paper</title>
       <link>https://forzaeth.ch/blog/map-paper/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://forzaeth.ch/blog/map-paper/</guid>
       <description>MAP Paper Abstract Autonomous racing is a research field gaining large popularity, as it pushes autonomous driving algorithms to their limits and serves as a catalyst for general autonomous driving. For scaled autonomous racing platforms, the computational constraint and complexity often limit the use of Model Predictive Control (MPC). As a consequence, geometric controllers are the most frequently deployed controllers. They prove to be performant while yielding implementation and operational simplicity.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://forzaeth.ch/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://forzaeth.ch/contact/</guid>
-      <description>You can contact us at the following email:
-forzaeth at gmail dot com</description>
+      <description>You can contact us at the following email:&#xA;forzaeth at gmail dot com</description>
     </item>
-    
   </channel>
 </rss>
